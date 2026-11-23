@@ -1,0 +1,6 @@
+{
+  "name": "PictaBot Cloud Run — Monitor en Vivo & Subidor Telegram 2GB",
+  "description": "Bot de Telegram con despertar por Webhook en Google Cloud Run, descarga íntegra de hasta 2 GB vía MTProto y subida de archivos completos a admin.picta.cu con títulos automáticos o manuales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

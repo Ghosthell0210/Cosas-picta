@@ -1,0 +1,6 @@
+{
+  "name": "PictaBot Cloud Run - Centro de Control Orbital",
+  "description": "Centro de Control Orbital y Pipeline automatizado Telegram a Picta con multisesión MTProto, S3 streaming, enriquecimiento Gemini y gestión avanzada de colaboradores y cuotas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
